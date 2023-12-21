@@ -123,3 +123,5 @@ darkModeIcon.addEventListener("click", (e) => {
 
     // ... (other style changes you may need)
 });
+
+// This is a new feature
